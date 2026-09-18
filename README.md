@@ -1,6 +1,6 @@
 # EX-02 Cross-Platform Prompting: Evaluating AI Techniques in Text Summarization
 
-## AIM
+## AIM 
 To evaluate and compare different prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across AI platforms (ChatGPT, Gemini, Claude, Copilot) for the task of summarizing technical articles.
 
 ---
